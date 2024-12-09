@@ -1,5 +1,5 @@
-import { useState } from "react";  // Sadece useState import ediyorsunuz
-import "./App.css";  // CSS dosyasını import ediyorsunuz
+import { useState } from "react";  
+import "./App.css";  
 
 
 export default function App() {
